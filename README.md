@@ -1,0 +1,4 @@
+Stinkie
+=======
+
+A Ghost theme
